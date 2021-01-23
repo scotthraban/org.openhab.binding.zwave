@@ -10,7 +10,7 @@
 
 	<groupId>org.openhab.addons.bundles</groupId>
 	<artifactId>org.openhab.binding.zwave</artifactId>
-	<version>3.0.0</version>
+	<version>3.0.0.1</version>
 	<!-- do not delete the version here as it is required by the release process -->
 
 	<name>openHAB Add-ons :: Bundles :: ZWave Binding</name>
